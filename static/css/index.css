@@ -1,0 +1,11 @@
+.hContainer{
+    display: inline-flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.vContainer{
+    display:flex;
+    flex-direction: column;
+    height: 100%;
+}
