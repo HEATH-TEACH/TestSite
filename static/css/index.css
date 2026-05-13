@@ -9,3 +9,47 @@
     flex-direction: column;
     height: 100%;
 }
+
+#title{
+    font-size:35pt;
+    font-weight:bold;
+
+    height:200px;
+    width:600px;
+    background-image: url("../images/banner.jpg");
+    background-size: cover;
+}
+#logo{
+    height:200px;
+    width:200px;
+    background-image: url("../images/logo.png");
+    background-size: cover;
+}
+
+#mainContainer{
+    flex:3;
+    background-color: aquamarine;
+}
+#leftBar,#rightBar{
+    flex:0.5;
+}
+
+#navBar{
+    flex:1;
+    background-color: green;
+    color:azure;
+    font-weight: bold;
+    a{
+        text-decoration: none;
+        color:inherit;
+        padding: 10px;
+    };
+    a:hover{
+            background-color: darkseagreen;
+     }
+
+}
+
+img{
+    width:100%;
+}
