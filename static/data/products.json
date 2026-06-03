@@ -1,0 +1,38 @@
+{
+    "basic_1": {
+        "name": "basic_grass_1",
+        "price": 5
+    },
+    "basic_2": {
+        "name": "basic_grass_2",
+        "price": 8
+    },
+    "basic_3": {
+        "name": "basic_grass_3",
+        "price": 10
+    },
+    "pro_1": {
+        "name": "pro_grass_1",
+        "price": 15
+    },
+    "pro_2": {
+        "name": "pro_grass_2",
+        "price": 18
+    },
+    "pro_3": {
+        "name": "pro_grass_3",
+        "price": 20
+    },
+    "rare_1": {
+        "name": "rare_grass_1",
+        "price": 30
+    },
+    "rare_2": {
+        "name": "rare_grass_2",
+        "price": 35
+    },
+    "rare_3": {
+        "name": "rare_grass_3",
+        "price": 40
+    }
+}

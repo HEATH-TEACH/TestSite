@@ -41,6 +41,7 @@
     font-weight: bold;
     a{
         text-decoration: none;
+        text-align: center;
         color:inherit;
         padding: 10px;
     };
@@ -52,4 +53,16 @@
 
 img{
     width:100%;
+}
+
+table{
+    width:100%;
+    padding:10px;
+    border-bottom-style:solid;
+    border-bottom: 3px;
+    border-bottom-color: black;
+
+    td{
+        text-align: center;
+    }
 }
